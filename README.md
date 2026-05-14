@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated DevOps/Cloud Engineer with hands-on experience in CI/CD pipeline design, containerization using Docker, Kubemetes<br>orchestration, and cloud infrastructure across AWS, GCP, and Azure through academic projects and Intemship. Proficient in<br>Terraform for Infrastructure as Code, Git-based version control workflows, and Linux server administration. Experienced in<br>monitoring and observability using Prometheus, Grafana, Datadog, and CloudWatch, Eager to contribute to high-performing<br>DevOps teams focused on automation, scalability, and continuous delivery.
+Motivated DevOps/Cloud Engineer with hands-on experience in CI/CD pipeline design, containerization using Docker, Kubemetes<br>orchestration, and cloud infrastructure across AWS, GCP, and Azure through projects and Intemship. Proficient in<br>Terraform for Infrastructure as Code, Git-based version control workflows, and Linux server administration. Experienced in<br>monitoring and observability using Prometheus, Grafana, Datadog, and CloudWatch, Eager to contribute to high-performing<br>DevOps teams focused on automation, scalability, and continuous delivery.
 
 
 ## 🌐 Socials:
