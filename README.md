@@ -1,18 +1,133 @@
-# 💫 About Me:
-DevOps Engineer with 3.8 years of experience in CI/CD pipeline design, containerization using Docker, Kubemetes<br>orchestration, and cloud infrastructure across AWS, GCP, and Azure through projects and Intemship. Proficient in<br>Terraform for Infrastructure as Code, Git-based version control workflows, and Linux server administration. Experienced in<br>monitoring and observability using Prometheus, Grafana, Datadog, and CloudWatch, Eager to contribute to high-performing<br>DevOps teams focused on automation, scalability, and continuous delivery.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Varad%20Gaikwad&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20%2F%20Cloud%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varadgaikwad1001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaikwad.varad@outlook.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=DevOps+%2F+Cloud+Engineer;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+and+Deploying+Cloud-Native+Systems;Open+to+DevOps+%2F+Cloud+Engineer+Roles" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gvarad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=gvarad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gvarad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black)
 
----
-[![](https://komarev.com/ghpvc/?username=gvarad&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=gvarad&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/gvarad?label=Followers&style=flat&color=7dd3fc" alt="Followers" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## 🧑‍💻 Who I Am
+
+```typescript
+const varad = {
+  title: "DevOps / Cloud Engineer",
+  stack: {
+    languages: ["Python", "Bash"],
+    frontend: ["React"],
+    backendInfra: ["Spring Boot", "Jenkins", "Terraform", "Docker", "Kubernetes"],
+    cloud: ["AWS", "AWS EKS"],
+    database: ["MongoDB"],
+  },
+  launchedProjects: [
+    "k8s-kind-voting-app — voting app deployed on a local Kubernetes cluster using kind",
+  ],
+  certifications: [], // add your certifications here
+  status: "Actively job-seeking — DevOps Engineer / Cloud Engineer roles",
+  openTo: ["DevOps Engineer", "Cloud Engineer", "Platform Engineering"],
+} as const;
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### k8s-kind-voting-app
+
+A voting app deployed on a local Kubernetes cluster using `kind`, demonstrating container orchestration and multi-service deployment.
+
+<a href="https://github.com/gvarad/k8s-kind-voting-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvarad&repo=k8s-kind-voting-app&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="k8s-kind-voting-app"/>
+</a>
+
+| Layer | Technology |
+|---|---|
+| Orchestration | Kubernetes (kind) |
+| Containerization | Docker |
+| Deployment | kubectl |
+
+🔗 [Code](https://github.com/gvarad/k8s-kind-voting-app)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=py,bash&theme=dark)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=react&theme=dark)
+
+**Backend / Infra**
+
+![Skills](https://skillicons.dev/icons?i=spring,jenkins,terraform,docker,kubernetes&theme=dark)
+
+**Cloud**
+
+![Skills](https://skillicons.dev/icons?i=aws&theme=dark)
+
+**Database**
+
+![Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gvarad&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvarad&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=gvarad&theme=nord&border=7dd3fc&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gvarad&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gvarad&theme=github-compact&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/varadgaikwad1001/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gaikwad.varad@outlook.com">
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=microsoftoutlook&logoColor=black" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
